@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "6072653819",
+    "project_id": "product-fe71b",
+    "storage_bucket": "product-fe71b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6072653819:android:ce628ce2d7f493e79c5d5e",
+        "android_client_info": {
+          "package_name": "com.example.karostartup_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6072653819-ef8k3a07sdlqsbe15pf1i4utjd8mbg9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgEKZg-wGxfThUEZ0Fts5AkkpnJGwfdyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6072653819-ef8k3a07sdlqsbe15pf1i4utjd8mbg9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6072653819-orn0d8ufmra1to2e2r88dfb19q5kgnbf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.karostartupProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
